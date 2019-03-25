@@ -1,0 +1,47 @@
+{
+    "_id" : "All",
+    "name" : "All",
+    "parent" : "",
+    "tenancy_id" : "",
+    "ifLeaf" : false,
+    "childnum" : 0
+}
+
+/* 2 */
+{
+    "_id" : "nogroup",
+    "name" : "nogroup",
+    "parent" : "All",
+    "tenancy_id" : "",
+    "ifLeaf" : false,
+    "childnum" : 0
+}
+
+/* 3 */
+{
+    "_id" : "5c05ece68a2e75000d7fcae1",
+    "name" : "测试",
+    "parent" : "All",
+    "tenancy_id" : "5bc0b21b8ab5d20006bc1cb6",
+    "ifLeaf" : false,
+    "childnum" : 0
+}
+
+/* 4 */
+{
+    "_id" : "5c0a40c33bbd7b00889bee55",
+    "name" : "测试",
+    "parent" : "All",
+    "tenancy_id" : "5c05e6bbcecc5f000d9e36ec",
+    "ifLeaf" : false,
+    "childnum" : 0
+}
+
+/* 5 */
+{
+    "_id" : "5c10717eae2f2c0006abdf11",
+    "name" : "功能开发",
+    "parent" : "All",
+    "tenancy_id" : "5bc0b21b8ab5d20006bc1cb6",
+    "ifLeaf" : false
+}
